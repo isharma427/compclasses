@@ -1,3 +1,5 @@
+# Using python to find the number of repetitions 
+
 import sys
 # open and read input file s
 fileinput = sys.argv[1]
